@@ -12,7 +12,7 @@ The commands I came across while studing this tutorial are:
 ```markdown
 
 
-# 1. `git remote add origin https://github.com/anandsesha/hello-world.git`
+1. `git remote add origin https://github.com/anandsesha/hello-world.git`
 
 2. `git remote -v`
  
