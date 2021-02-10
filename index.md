@@ -15,7 +15,7 @@ The commands I came across while studing this tutorial are:
 
 2. git remote -v
  
-3. git push origin master`
+3. git push origin master
 
 4. git log --oneline --decorate --graph --all
 
